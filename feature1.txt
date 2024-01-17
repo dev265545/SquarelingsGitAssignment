@@ -1,1 +1,31 @@
 something different SOME ERROR SHOULD HAPPEN
+1
+
+Assignment
+   Create a new directory on your local machine named Squarelings.
+   Initialize a new GIT repository inside this directory.
+   Create a new branch named feature-A for developing a new feature.
+   Switch to the feature-A.
+   Inside the Squarelings directory, create a new text file named
+feature.txt.
+   Add a few lines of text to feature.txt, describing about your project
+or adding any sample text.
+   Add feature.txt to the staging area.
+   Commit the changes with a meaningful commit message.
+   Switch back to the main branch (master).
+   Create another branch named bug-fix.
+   Modify feature.txt again, introducing a deliberate bug.
+   Commit the changes.
+   Attempt to merge the feature-A into the main branch (master or
+main).
+   Resolve any merge conflicts that arise.
+   Review the commit history using the git log command.
+   Ensure that both branches (feature-A and bug-fix) are properly
+merged
+Repository Setup:1.
+Branching:2.
+Code Modification:3.
+Committing Changes:4.
+Switching and Merging:5.
+Merge Conflict:6.
+Review and Cleanup:7.
